@@ -22,6 +22,8 @@ Membuat sebuah aplikasi yang dapat mencari buku berdasarkan nama buku, tahun pen
 
 ## Panduan menggunakan aplikasi Untuk Pelanggan
 - ##### Pada Menu Utama
+Menu Utama dapat diakses melalui: localhost/ setelah run app.py
+
 Menu Utama terdapat menu-menu antara lain : `Daftar Buku`, `Daftar Penulis` dan `Cari Buku`. 
 - Daftar Buku
 1. Pada daftar buku terdapat tabel berisi Judul Buku, Penulis Buku, Tahun Terbit Buku.
@@ -40,6 +42,8 @@ Menu Utama terdapat menu-menu antara lain : `Daftar Buku`, `Daftar Penulis` dan 
 
 ## Panduan menggunakan aplikasi Untuk Admin
 - ##### Pada Menu Utama
+Menu Utama dapat diakses melalui: localhost/home_admin setelah run admin.py
+
 Menu Utama terdapat menu-menu antara lain : `Daftar Buku`, `Tambah Buku`, `Tambah Penulis` dan `Cari Buku`.
 
 - Daftar Buku
